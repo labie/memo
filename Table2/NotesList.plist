@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>date</key>
+		<string>2015-10-23 12：20：20</string>
+		<key>content</key>
+		<string>Welcome to MyNote</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-02-01 11：11：11</string>
+		<key>content</key>
+		<string>欢迎使用MyNote</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-11-29 10：53：49</string>
+		<key>content</key>
+		<string>填写备忘录</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-12-23 12:23:42</string>
+		<key>content</key>
+		<string>nihao</string>
+	</dict>
+</array>
+</plist>
